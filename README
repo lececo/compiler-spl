@@ -1,16 +1,5 @@
-Inhalt des Archivs spl-visitor-skeleton.tar.gz
+Vorgegebenes SPL-Compiler-Skeletts:
 ----------------------------------------------
-
-Das Archiv enthält eine erweiterte Variante des SPL-Compiler-Skeletts.
-
-ACHTUNG: 
-
-a) Die Klassen sind teilweise unvollstaendig und lassen sich in dieser
-   unvollstaendigen Form nicht compilieren.
-
-b) Das Skelett enthält neben Teilen der semantischen Analyse auch Teile
-   der Variablen-Allokation und der Codeerzeugung
-
 
 1. package absyn
 
